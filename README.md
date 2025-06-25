@@ -49,7 +49,7 @@ For a detailed overview of the project, refer to the [Documentation](./documenta
 - Jinja2
 - HTML5
 - CSS3
-- JS
+- jsQR
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
