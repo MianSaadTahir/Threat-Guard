@@ -9,7 +9,6 @@
 - [Documentation](#documentation)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **URL and File Scanning**: Scan links, QR codes, and uploaded files for malware and phishing threats.
