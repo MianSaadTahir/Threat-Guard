@@ -11,10 +11,10 @@ A cyber safety web app built using Python's Flask framework. It integrates real-
 - [Contributing](#contributing)
 
 ## Features
-- Scan links, QR codes, and uploaded files for malware and phishing threats.
-- Check if emails or passwords have been exposed in data breaches using the HaveIBeenPwned API.
-- Secure sign-up/login system with hashed passwords.
-- SQLite used for storing users, phishing URLs, IPs, and breach data.
+- Scan links, QR codes, and uploaded files for malware and phishing threats
+- Check if emails or passwords have been exposed in data breaches using the HaveIBeenPwned API
+- Secure sign-up/login system with hashed passwords
+- SQLite used for storing users, phishing URLs, IPs, and breach data
 
 ## Screenshots
 <img src="assets/2.png" alt="Screenshot" width="75%">
@@ -40,10 +40,10 @@ For a detailed overview of the project, refer to the [Documentation](./documenta
    `git clone https://github.com/miansaadtahir/threat-guard.git`
 2. Install required dependencies:
    `pip install -r requirements.txt`
-3. Create a `.env` file in the root directory and add your VirusTotal API key.
+3. Create a `.env` file in the root directory and add your VirusTotal API key
 4. Run the application:
    `python app.py`
-5. Open the local address shown in the terminal `(e.g., http://127.0.0.1:5000)` in your browser to go live.
+5. Open the local address shown in the terminal `(e.g., http://127.0.0.1:5000)` in your browser
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
