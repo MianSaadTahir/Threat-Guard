@@ -20,9 +20,7 @@ A cyber safety web app built using Python's Flask framework. It integrates real-
 <img src="assets/2.png" alt="Screenshot" width="75%">
 <img src="assets/3.png" alt="Screenshot" width="75%">
 <img src="assets/4.png" alt="Screenshot" width="75%">
-<img src="assets/10.png" alt="Screenshot" width="75%">
 <img src="assets/6.png" alt="Screenshot" width="75%">
-<img src="assets/8.png" alt="Screenshot" width="75%">
 <img src="assets/9.png" alt="Screenshot" width="75%">
 
 ## Documentation
