@@ -9,7 +9,7 @@ A cyber safety web app built using Python's Flask framework. It integrates real-
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
+- [License](#license)
 ## Features
 - Scan links, QR codes, and uploaded files for malware and phishing threats
 - Check if emails or passwords have been exposed in data breaches using the HaveIBeenPwned API
@@ -47,4 +47,9 @@ For a detailed overview of the project, refer to the [Documentation](./documenta
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/miansaadtahir/Threat-Guard/issues) for more information.
+Feel free to check out the [issues page](https://github.com/miansaadtahir/Threat-Guard/issues).
+
+## License
+
+This project is open source and available under the MIT [License](https://github.com/MianSaadTahir/Threat-Guard/blob/main/LICENSE).
+
